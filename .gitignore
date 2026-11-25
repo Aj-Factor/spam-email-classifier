@@ -1,0 +1,1 @@
+.venv/\n__pycache__/\n*.py[cod]\nspam_classifier.joblib\nmodel_metrics.txt\n.streamlit/secrets.toml\n

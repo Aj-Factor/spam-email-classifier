@@ -1,0 +1,19 @@
+SPAM EMAIL CLASSIFIER - TEST RESULTS
+Dataset rows: 80
+Training rows: 60
+Testing rows: 20
+Accuracy: 0.9500
+
+Classification report:
+              precision    recall  f1-score   support
+
+         ham       1.00      0.90      0.95        10
+        spam       0.91      1.00      0.95        10
+
+    accuracy                           0.95        20
+   macro avg       0.95      0.95      0.95        20
+weighted avg       0.95      0.95      0.95        20
+
+Confusion matrix (true/predicted; order ham, spam):
+[[ 9  1]
+ [ 0 10]]
